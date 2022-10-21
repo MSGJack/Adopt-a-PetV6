@@ -1,6 +1,7 @@
 {
   "name": "catdog",
   "version": "0.1.0",
+  "homepage": "https://msgjack.github.io/Adopt-a-PetV6/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
